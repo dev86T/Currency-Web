@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "kt+fZGGnXoY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shajb\\RiderProjects\\CurrencyApplication\\CurrencyApplication.Service\\CurrencyApplication.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.12\\microsoft.extensions.configuration.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.12\\microsoft.extensions.configuration.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.12\\microsoft.extensions.configuration.binder.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.diagnostics\\10.0.12\\microsoft.extensions.diagnostics.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.12\\microsoft.extensions.diagnostics.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.http\\10.0.12\\microsoft.extensions.http.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.logging\\10.0.12\\microsoft.extensions.logging.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.options\\10.0.12\\microsoft.extensions.options.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.12\\microsoft.extensions.options.configurationextensions.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.12\\microsoft.extensions.primitives.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\swashbuckle.aspnetcore\\10.3.0\\swashbuckle.aspnetcore.10.3.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.3.0\\swashbuckle.aspnetcore.swagger.10.3.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.3.0\\swashbuckle.aspnetcore.swaggergen.10.3.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.3.0\\swashbuckle.aspnetcore.swaggerui.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

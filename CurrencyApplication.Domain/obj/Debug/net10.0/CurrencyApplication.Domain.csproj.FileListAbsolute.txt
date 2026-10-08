@@ -1,0 +1,12 @@
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\CurrencyApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\CurrencyApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\CurrencyApplication.Domain.AssemblyInfo.cs
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\CurrencyApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\CurrencyApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\bin\Debug\net10.0\CurrencyApplication.Domain.deps.json
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\bin\Debug\net10.0\CurrencyApplication.Domain.dll
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\bin\Debug\net10.0\CurrencyApplication.Domain.pdb
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\CurrencyApplication.Domain.dll
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\refint\CurrencyApplication.Domain.dll
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\CurrencyApplication.Domain.pdb
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Domain\obj\Debug\net10.0\ref\CurrencyApplication.Domain.dll

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>CurrencyApplication</RootNamespace>
+        <UserSecretsId>e7f1d49d-5d06-4e52-8d73-f0ddcaf30ad8</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.9"/>
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.12" />
+        <PackageReference Include="Microsoft.Extensions.Http" Version="10.0.12" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="10.3.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="10.3.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CurrencyApplication.Service\CurrencyApplication.Service.csproj" />
+    </ItemGroup>
+
+</Project>

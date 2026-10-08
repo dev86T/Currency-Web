@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEfvYPeQ0TA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shajb\\RiderProjects\\CurrencyApplication\\CurrencyApplication.Web\\CurrencyApplication.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.http\\10.0.12\\microsoft.extensions.http.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\swashbuckle.aspnetcore\\10.3.0\\swashbuckle.aspnetcore.10.3.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.3.0\\swashbuckle.aspnetcore.swagger.10.3.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.3.0\\swashbuckle.aspnetcore.swaggergen.10.3.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.3.0\\swashbuckle.aspnetcore.swaggerui.10.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.DependencyInjection will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\shajb\\RiderProjects\\CurrencyApplication\\CurrencyApplication.Web\\CurrencyApplication.Web.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\shajb\\RiderProjects\\CurrencyApplication\\CurrencyApplication.Web\\CurrencyApplication.Web.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Http will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\shajb\\RiderProjects\\CurrencyApplication\\CurrencyApplication.Web\\CurrencyApplication.Web.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\shajb\\RiderProjects\\CurrencyApplication\\CurrencyApplication.Web\\CurrencyApplication.Web.csproj",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\bin\Debug\net10.0\CurrencyApplication.Service.deps.json
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\bin\Debug\net10.0\CurrencyApplication.Service.dll
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\bin\Debug\net10.0\CurrencyApplication.Service.pdb
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\bin\Debug\net10.0\CurrencyApplication.Domain.dll
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\bin\Debug\net10.0\CurrencyApplication.Domain.pdb
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\CurrencyApplication.Service.csproj.AssemblyReference.cache
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\CurrencyApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\CurrencyApplication.Service.AssemblyInfoInputs.cache
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\CurrencyApplication.Service.AssemblyInfo.cs
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\CurrencyApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\Currency.FAC0B3CB.Up2Date
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\CurrencyApplication.Service.dll
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\refint\CurrencyApplication.Service.dll
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\CurrencyApplication.Service.pdb
+C:\Users\shajb\RiderProjects\CurrencyApplication\CurrencyApplication.Service\obj\Debug\net10.0\ref\CurrencyApplication.Service.dll
